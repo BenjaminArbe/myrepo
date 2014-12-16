@@ -1,4 +1,4 @@
-myrepo
-======
+## Data science specialization
 
-first test repo
+* Uses R
+* Nine curses
